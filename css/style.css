@@ -40,11 +40,11 @@
     cursor:pointer;
 }
 
-.container .buttons button#sub{
+.container .buttons button.sub{
     background-color: orangered;
     color:#fff;
 }
-.container .buttons button#add{
+.container .buttons button.add{
     background-color: green;
     color:#fff;
 }
